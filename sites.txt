@@ -1,0 +1,9 @@
+SITES
+
+sites para desenvolver exercicios de programaçao
+www.exercism.org
+www.codewars.com
+www.leetcode.com
+www.codingame.com
+www.hackerrank.com
+
